@@ -1,5 +1,5 @@
 ## Hi there 👋
- - About me: Yes, my name is Basement. No, sadly I do not live in a basement.
+ - About me: Yes, my name is Basement. No, sadly I do not live in a basement 🐀
  - Fun Fact: Excel is not a save method to store passwords ❌
 <!--
 **MrBasementNo1/MrBasementNo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
