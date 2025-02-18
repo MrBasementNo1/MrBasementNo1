@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ - Fun Fact: Excel is not a save method to store passwords ❌
 <!--
 **MrBasementNo1/MrBasementNo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
