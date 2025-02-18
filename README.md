@@ -1,4 +1,4 @@
-## MrBasemen Personal Notes 👋
+## MrBasement Personal Notes 👋
  - About me: Yes, my name is Basement. No, sadly I do not live in a basement 🐀
  - Fun Fact: Excel is not a save method to store passwords ❌
 <!--
